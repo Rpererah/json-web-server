@@ -1,0 +1,22 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Joao",
+      "role": "Admin",
+      "avatar": "https://example.com/avatar1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Janete",
+      "role": "Editor",
+      "avatar": "https://example.com/avatar2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Samzinho",
+      "role": "Author",
+      "avatar": "https://example.com/avatar3.jpg"
+    }
+  ]
+}
